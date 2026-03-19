@@ -21,7 +21,7 @@ while True:
             students[name] = grade
             print("Grade updated successfully")
         else:
-            print("Student not found")
+            print("Students not found")
 
     elif choice == "3":
         print("\nStudent Grades:")
