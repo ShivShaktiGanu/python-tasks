@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains basic Python programs demonstrating:
 
 1. Grade checker using if-else conditions
@@ -6,3 +7,16 @@ This repository contains basic Python programs demonstrating:
 4. Reading data from a file using Python file handling
 
 All programs were executed successfully in a Linux environment.
+=======
+# Python Practice Tasks
+
+This repository contains basic Python programs for learning.
+
+## Topics
+- Variables
+- Conditions
+- Loops
+
+## Author
+ShivShaktiGanu
+>>>>>>> cd76ef78e4481351834ada216becafc888d558aa
