@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This repository contains basic Python programs demonstrating:
 
 1. Grade checker using if-else conditions
@@ -10,13 +11,18 @@ All programs were executed successfully in a Linux environment.
 =======
 # Python Practice Tasks
 
+=======
+>>>>>>> 2493942fe8145d527ac748e575cb11de7bbebe54
 This repository contains basic Python programs for learning.
-
-## Topics
+Topics
 - Variables
 - Conditions
 - Loops
 
+<<<<<<< HEAD
 ## Author
 ShivShaktiGanu
 >>>>>>> cd76ef78e4481351834ada216becafc888d558aa
+=======
+
+>>>>>>> 2493942fe8145d527ac748e575cb11de7bbebe54
